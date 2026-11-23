@@ -1,0 +1,823 @@
+{
+  "version": "1.0",
+  "last_updated": "2026-11-23T16:49:43.603876",
+  "total_records": 45,
+  "records": [
+    {
+      "id": "IRIS-SAMPLE-001",
+      "timestamp": "2026-11-08T16:49:43.507321",
+      "sepal_length": 5.1,
+      "sepal_width": 3.5,
+      "petal_length": 1.4,
+      "petal_width": 0.2,
+      "predicted_species": "setosa",
+      "confidence": 0.9811,
+      "probabilities": {
+        "setosa": 0.9811,
+        "versicolor": 0.0189,
+        "virginica": 0.0
+      },
+      "warnings": [],
+      "source": "sample_dataset",
+      "notes": "Standard specimen from Fisher study"
+    },
+    {
+      "id": "IRIS-SAMPLE-002",
+      "timestamp": "2026-11-09T00:49:43.507321",
+      "sepal_length": 4.9,
+      "sepal_width": 3.0,
+      "petal_length": 1.4,
+      "petal_width": 0.2,
+      "predicted_species": "setosa",
+      "confidence": 0.9174,
+      "probabilities": {
+        "setosa": 0.9174,
+        "versicolor": 0.0826,
+        "virginica": 0.0
+      },
+      "warnings": [],
+      "source": "sample_dataset",
+      "notes": "Typical small blossom"
+    },
+    {
+      "id": "IRIS-SAMPLE-003",
+      "timestamp": "2026-11-09T08:49:43.507321",
+      "sepal_length": 4.7,
+      "sepal_width": 3.2,
+      "petal_length": 1.3,
+      "petal_width": 0.2,
+      "predicted_species": "setosa",
+      "confidence": 0.9737,
+      "probabilities": {
+        "setosa": 0.9737,
+        "versicolor": 0.0263,
+        "virginica": 0.0
+      },
+      "warnings": [],
+      "source": "sample_dataset",
+      "notes": "Compact petal geometry"
+    },
+    {
+      "id": "IRIS-SAMPLE-004",
+      "timestamp": "2026-11-09T16:49:43.507321",
+      "sepal_length": 4.6,
+      "sepal_width": 3.1,
+      "petal_length": 1.5,
+      "petal_width": 0.2,
+      "predicted_species": "setosa",
+      "confidence": 0.9629,
+      "probabilities": {
+        "setosa": 0.9629,
+        "versicolor": 0.037,
+        "virginica": 0.0
+      },
+      "warnings": [],
+      "source": "sample_dataset",
+      "notes": "Early spring collection"
+    },
+    {
+      "id": "IRIS-SAMPLE-005",
+      "timestamp": "2026-11-10T00:49:43.507321",
+      "sepal_length": 5.0,
+      "sepal_width": 3.6,
+      "petal_length": 1.4,
+      "petal_width": 0.2,
+      "predicted_species": "setosa",
+      "confidence": 0.9892,
+      "probabilities": {
+        "setosa": 0.9892,
+        "versicolor": 0.0108,
+        "virginica": 0.0
+      },
+      "warnings": [],
+      "source": "sample_dataset",
+      "notes": "Healthy garden observation"
+    },
+    {
+      "id": "IRIS-SAMPLE-006",
+      "timestamp": "2026-11-10T08:49:43.507321",
+      "sepal_length": 5.4,
+      "sepal_width": 3.9,
+      "petal_length": 1.7,
+      "petal_width": 0.4,
+      "predicted_species": "setosa",
+      "confidence": 0.989,
+      "probabilities": {
+        "setosa": 0.989,
+        "versicolor": 0.011,
+        "virginica": 0.0
+      },
+      "warnings": [],
+      "source": "sample_dataset",
+      "notes": "Robust flower, broad sepals"
+    },
+    {
+      "id": "IRIS-SAMPLE-007",
+      "timestamp": "2026-11-10T16:49:43.507321",
+      "sepal_length": 4.6,
+      "sepal_width": 3.4,
+      "petal_length": 1.4,
+      "petal_width": 0.3,
+      "predicted_species": "setosa",
+      "confidence": 0.9876,
+      "probabilities": {
+        "setosa": 0.9876,
+        "versicolor": 0.0124,
+        "virginica": 0.0
+      },
+      "warnings": [],
+      "source": "sample_dataset",
+      "notes": "Alpine meadow sample"
+    },
+    {
+      "id": "IRIS-SAMPLE-008",
+      "timestamp": "2026-11-11T00:49:43.507321",
+      "sepal_length": 5.0,
+      "sepal_width": 3.4,
+      "petal_length": 1.5,
+      "petal_width": 0.2,
+      "predicted_species": "setosa",
+      "confidence": 0.9753,
+      "probabilities": {
+        "setosa": 0.9753,
+        "versicolor": 0.0247,
+        "virginica": 0.0
+      },
+      "warnings": [],
+      "source": "sample_dataset",
+      "notes": "Greenhouse cultivated"
+    },
+    {
+      "id": "IRIS-SAMPLE-009",
+      "timestamp": "2026-11-11T08:49:43.507321",
+      "sepal_length": 4.4,
+      "sepal_width": 2.9,
+      "petal_length": 1.4,
+      "petal_width": 0.2,
+      "predicted_species": "setosa",
+      "confidence": 0.9496,
+      "probabilities": {
+        "setosa": 0.9496,
+        "versicolor": 0.0504,
+        "virginica": 0.0
+      },
+      "warnings": [],
+      "source": "sample_dataset",
+      "notes": "Boundary: Lower bound sepal length"
+    },
+    {
+      "id": "IRIS-SAMPLE-010",
+      "timestamp": "2026-11-11T16:49:43.507321",
+      "sepal_length": 4.9,
+      "sepal_width": 3.1,
+      "petal_length": 1.5,
+      "petal_width": 0.1,
+      "predicted_species": "setosa",
+      "confidence": 0.9433,
+      "probabilities": {
+        "setosa": 0.9433,
+        "versicolor": 0.0567,
+        "virginica": 0.0
+      },
+      "warnings": [],
+      "source": "sample_dataset",
+      "notes": "Boundary: Extreme lower petal width"
+    },
+    {
+      "id": "IRIS-SAMPLE-011",
+      "timestamp": "2026-11-12T00:49:43.507321",
+      "sepal_length": 5.4,
+      "sepal_width": 3.7,
+      "petal_length": 1.5,
+      "petal_width": 0.2,
+      "predicted_species": "setosa",
+      "confidence": 0.9835,
+      "probabilities": {
+        "setosa": 0.9835,
+        "versicolor": 0.0165,
+        "virginica": 0.0
+      },
+      "warnings": [],
+      "source": "sample_dataset",
+      "notes": "Woodland clearing specimen"
+    },
+    {
+      "id": "IRIS-SAMPLE-012",
+      "timestamp": "2026-11-12T08:49:43.507321",
+      "sepal_length": 4.8,
+      "sepal_width": 3.4,
+      "petal_length": 1.6,
+      "petal_width": 0.2,
+      "predicted_species": "setosa",
+      "confidence": 0.9813,
+      "probabilities": {
+        "setosa": 0.9813,
+        "versicolor": 0.0187,
+        "virginica": 0.0
+      },
+      "warnings": [],
+      "source": "sample_dataset",
+      "notes": "Moist soil substrate"
+    },
+    {
+      "id": "IRIS-SAMPLE-013",
+      "timestamp": "2026-11-12T16:49:43.507321",
+      "sepal_length": 4.8,
+      "sepal_width": 3.0,
+      "petal_length": 1.4,
+      "petal_width": 0.1,
+      "predicted_species": "setosa",
+      "confidence": 0.9364,
+      "probabilities": {
+        "setosa": 0.9364,
+        "versicolor": 0.0636,
+        "virginica": 0.0
+      },
+      "warnings": [],
+      "source": "sample_dataset",
+      "notes": "Shaded forest floor"
+    },
+    {
+      "id": "IRIS-SAMPLE-014",
+      "timestamp": "2026-11-13T00:49:43.507321",
+      "sepal_length": 5.7,
+      "sepal_width": 4.4,
+      "petal_length": 1.5,
+      "petal_width": 0.4,
+      "predicted_species": "setosa",
+      "confidence": 0.9976,
+      "probabilities": {
+        "setosa": 0.9976,
+        "versicolor": 0.0024,
+        "virginica": 0.0
+      },
+      "warnings": [],
+      "source": "sample_dataset",
+      "notes": "Boundary: Upper sepal width outlier"
+    },
+    {
+      "id": "IRIS-SAMPLE-015",
+      "timestamp": "2026-11-13T08:49:43.507321",
+      "sepal_length": 5.2,
+      "sepal_width": 4.1,
+      "petal_length": 1.5,
+      "petal_width": 0.1,
+      "predicted_species": "setosa",
+      "confidence": 0.9977,
+      "probabilities": {
+        "setosa": 0.9977,
+        "versicolor": 0.0023,
+        "virginica": 0.0
+      },
+      "warnings": [],
+      "source": "sample_dataset",
+      "notes": "Edge: High sepal width to length ratio"
+    },
+    {
+      "id": "IRIS-SAMPLE-016",
+      "timestamp": "2026-11-13T16:49:43.507321",
+      "sepal_length": 7.0,
+      "sepal_width": 3.2,
+      "petal_length": 4.7,
+      "petal_width": 1.4,
+      "predicted_species": "versicolor",
+      "confidence": 0.7862,
+      "probabilities": {
+        "setosa": 0.0099,
+        "versicolor": 0.7862,
+        "virginica": 0.2039
+      },
+      "warnings": [],
+      "source": "sample_dataset",
+      "notes": "Typical robust versicolor"
+    },
+    {
+      "id": "IRIS-SAMPLE-017",
+      "timestamp": "2026-11-14T00:49:43.507321",
+      "sepal_length": 6.4,
+      "sepal_width": 3.2,
+      "petal_length": 4.5,
+      "petal_width": 1.5,
+      "predicted_species": "versicolor",
+      "confidence": 0.7489,
+      "probabilities": {
+        "setosa": 0.0297,
+        "versicolor": 0.7489,
+        "virginica": 0.2214
+      },
+      "warnings": [],
+      "source": "sample_dataset",
+      "notes": "Standard riverbank variety"
+    },
+    {
+      "id": "IRIS-SAMPLE-018",
+      "timestamp": "2026-11-14T08:49:43.507321",
+      "sepal_length": 6.9,
+      "sepal_width": 3.1,
+      "petal_length": 4.9,
+      "petal_width": 1.5,
+      "predicted_species": "versicolor",
+      "confidence": 0.6597,
+      "probabilities": {
+        "setosa": 0.0053,
+        "versicolor": 0.6597,
+        "virginica": 0.335
+      },
+      "warnings": [],
+      "source": "sample_dataset",
+      "notes": "Tall stem specimen"
+    },
+    {
+      "id": "IRIS-SAMPLE-019",
+      "timestamp": "2026-11-14T16:49:43.507321",
+      "sepal_length": 5.5,
+      "sepal_width": 2.3,
+      "petal_length": 4.0,
+      "petal_width": 1.3,
+      "predicted_species": "versicolor",
+      "confidence": 0.9163,
+      "probabilities": {
+        "setosa": 0.0108,
+        "versicolor": 0.9163,
+        "virginica": 0.0729
+      },
+      "warnings": [],
+      "source": "sample_dataset",
+      "notes": "Boundary: Low sepal width"
+    },
+    {
+      "id": "IRIS-SAMPLE-020",
+      "timestamp": "2026-11-15T00:49:43.507321",
+      "sepal_length": 6.5,
+      "sepal_width": 2.8,
+      "petal_length": 4.6,
+      "petal_width": 1.5,
+      "predicted_species": "versicolor",
+      "confidence": 0.7289,
+      "probabilities": {
+        "setosa": 0.0049,
+        "versicolor": 0.7289,
+        "virginica": 0.2662
+      },
+      "warnings": [],
+      "source": "sample_dataset",
+      "notes": "Meadow marsh sample"
+    },
+    {
+      "id": "IRIS-SAMPLE-021",
+      "timestamp": "2026-11-15T08:49:43.507321",
+      "sepal_length": 5.7,
+      "sepal_width": 2.8,
+      "petal_length": 4.5,
+      "petal_width": 1.3,
+      "predicted_species": "versicolor",
+      "confidence": 0.854,
+      "probabilities": {
+        "setosa": 0.0321,
+        "versicolor": 0.854,
+        "virginica": 0.1139
+      },
+      "warnings": [],
+      "source": "sample_dataset",
+      "notes": "Suburban wetland park"
+    },
+    {
+      "id": "IRIS-SAMPLE-022",
+      "timestamp": "2026-11-15T16:49:43.507321",
+      "sepal_length": 6.3,
+      "sepal_width": 3.3,
+      "petal_length": 4.7,
+      "petal_width": 1.6,
+      "predicted_species": "versicolor",
+      "confidence": 0.6214,
+      "probabilities": {
+        "setosa": 0.0336,
+        "versicolor": 0.6214,
+        "virginica": 0.345
+      },
+      "warnings": [
+        "Low Confidence Flag: Model certainty is 62.1% (below 65% threshold). Specimen lies near classification decision boundary."
+      ],
+      "source": "sample_dataset",
+      "notes": "Healthy adult bloom"
+    },
+    {
+      "id": "IRIS-SAMPLE-023",
+      "timestamp": "2026-11-16T00:49:43.507321",
+      "sepal_length": 4.9,
+      "sepal_width": 2.4,
+      "petal_length": 3.3,
+      "petal_width": 1.0,
+      "predicted_species": "versicolor",
+      "confidence": 0.8867,
+      "probabilities": {
+        "setosa": 0.1051,
+        "versicolor": 0.8867,
+        "virginica": 0.0082
+      },
+      "warnings": [],
+      "source": "sample_dataset",
+      "notes": "Boundary: Dwarf versicolor specimen"
+    },
+    {
+      "id": "IRIS-SAMPLE-024",
+      "timestamp": "2026-11-16T08:49:43.507321",
+      "sepal_length": 6.6,
+      "sepal_width": 2.9,
+      "petal_length": 4.6,
+      "petal_width": 1.3,
+      "predicted_species": "versicolor",
+      "confidence": 0.857,
+      "probabilities": {
+        "setosa": 0.0085,
+        "versicolor": 0.857,
+        "virginica": 0.1345
+      },
+      "warnings": [],
+      "source": "sample_dataset",
+      "notes": "Late summer field record"
+    },
+    {
+      "id": "IRIS-SAMPLE-025",
+      "timestamp": "2026-11-16T16:49:43.507321",
+      "sepal_length": 5.2,
+      "sepal_width": 2.7,
+      "petal_length": 3.9,
+      "petal_width": 1.4,
+      "predicted_species": "versicolor",
+      "confidence": 0.842,
+      "probabilities": {
+        "setosa": 0.077,
+        "versicolor": 0.842,
+        "virginica": 0.081
+      },
+      "warnings": [],
+      "source": "sample_dataset",
+      "notes": "Boundary: Near setosa-versicolor transition"
+    },
+    {
+      "id": "IRIS-SAMPLE-026",
+      "timestamp": "2026-11-17T00:49:43.507321",
+      "sepal_length": 5.0,
+      "sepal_width": 2.0,
+      "petal_length": 3.5,
+      "petal_width": 1.0,
+      "predicted_species": "versicolor",
+      "confidence": 0.9697,
+      "probabilities": {
+        "setosa": 0.0179,
+        "versicolor": 0.9697,
+        "virginica": 0.0124
+      },
+      "warnings": [],
+      "source": "sample_dataset",
+      "notes": "Boundary: Hard minimum sepal width"
+    },
+    {
+      "id": "IRIS-SAMPLE-027",
+      "timestamp": "2026-11-17T08:49:43.507321",
+      "sepal_length": 5.9,
+      "sepal_width": 3.0,
+      "petal_length": 4.2,
+      "petal_width": 1.5,
+      "predicted_species": "versicolor",
+      "confidence": 0.7907,
+      "probabilities": {
+        "setosa": 0.0457,
+        "versicolor": 0.7907,
+        "virginica": 0.1635
+      },
+      "warnings": [],
+      "source": "sample_dataset",
+      "notes": "Botanical conservatory sample"
+    },
+    {
+      "id": "IRIS-SAMPLE-028",
+      "timestamp": "2026-11-17T16:49:43.507321",
+      "sepal_length": 6.0,
+      "sepal_width": 2.2,
+      "petal_length": 4.0,
+      "petal_width": 1.0,
+      "predicted_species": "versicolor",
+      "confidence": 0.9722,
+      "probabilities": {
+        "setosa": 0.0042,
+        "versicolor": 0.9722,
+        "virginica": 0.0235
+      },
+      "warnings": [],
+      "source": "sample_dataset",
+      "notes": "Dry meadow boundary specimen"
+    },
+    {
+      "id": "IRIS-SAMPLE-029",
+      "timestamp": "2026-11-18T00:49:43.507321",
+      "sepal_length": 6.1,
+      "sepal_width": 2.9,
+      "petal_length": 4.7,
+      "petal_width": 1.4,
+      "predicted_species": "versicolor",
+      "confidence": 0.7812,
+      "probabilities": {
+        "setosa": 0.0161,
+        "versicolor": 0.7812,
+        "virginica": 0.2026
+      },
+      "warnings": [],
+      "source": "sample_dataset",
+      "notes": "Lakeshore collection"
+    },
+    {
+      "id": "IRIS-SAMPLE-030",
+      "timestamp": "2026-11-18T08:49:43.507321",
+      "sepal_length": 5.6,
+      "sepal_width": 2.9,
+      "petal_length": 3.6,
+      "petal_width": 1.3,
+      "predicted_species": "versicolor",
+      "confidence": 0.8509,
+      "probabilities": {
+        "setosa": 0.1121,
+        "versicolor": 0.8509,
+        "virginica": 0.037
+      },
+      "warnings": [],
+      "source": "sample_dataset",
+      "notes": "Borderline confidence test case"
+    },
+    {
+      "id": "IRIS-SAMPLE-031",
+      "timestamp": "2026-11-18T16:49:43.507321",
+      "sepal_length": 6.3,
+      "sepal_width": 3.3,
+      "petal_length": 6.0,
+      "petal_width": 2.5,
+      "predicted_species": "virginica",
+      "confidence": 0.9912,
+      "probabilities": {
+        "setosa": 0.0001,
+        "versicolor": 0.0088,
+        "virginica": 0.9912
+      },
+      "warnings": [],
+      "source": "sample_dataset",
+      "notes": "Standard mature virginica"
+    },
+    {
+      "id": "IRIS-SAMPLE-032",
+      "timestamp": "2026-11-19T00:49:43.507321",
+      "sepal_length": 5.8,
+      "sepal_width": 2.7,
+      "petal_length": 5.1,
+      "petal_width": 1.9,
+      "predicted_species": "virginica",
+      "confidence": 0.7731,
+      "probabilities": {
+        "setosa": 0.0017,
+        "versicolor": 0.2252,
+        "virginica": 0.7731
+      },
+      "warnings": [],
+      "source": "sample_dataset",
+      "notes": "Borderline versicolor/virginica transition"
+    },
+    {
+      "id": "IRIS-SAMPLE-033",
+      "timestamp": "2026-11-19T08:49:43.507321",
+      "sepal_length": 7.1,
+      "sepal_width": 3.0,
+      "petal_length": 5.9,
+      "petal_width": 2.1,
+      "predicted_species": "virginica",
+      "confidence": 0.9553,
+      "probabilities": {
+        "setosa": 0.0,
+        "versicolor": 0.0447,
+        "virginica": 0.9553
+      },
+      "warnings": [],
+      "source": "sample_dataset",
+      "notes": "Large wetland wild bloom"
+    },
+    {
+      "id": "IRIS-SAMPLE-034",
+      "timestamp": "2026-11-19T16:49:43.507321",
+      "sepal_length": 6.3,
+      "sepal_width": 2.9,
+      "petal_length": 5.6,
+      "petal_width": 1.8,
+      "predicted_species": "virginica",
+      "confidence": 0.8043,
+      "probabilities": {
+        "setosa": 0.0009,
+        "versicolor": 0.1947,
+        "virginica": 0.8043
+      },
+      "warnings": [],
+      "source": "sample_dataset",
+      "notes": "Forest trail border"
+    },
+    {
+      "id": "IRIS-SAMPLE-035",
+      "timestamp": "2026-11-20T00:49:43.507321",
+      "sepal_length": 6.5,
+      "sepal_width": 3.0,
+      "petal_length": 5.8,
+      "petal_width": 2.2,
+      "predicted_species": "virginica",
+      "confidence": 0.9649,
+      "probabilities": {
+        "setosa": 0.0001,
+        "versicolor": 0.035,
+        "virginica": 0.9649
+      },
+      "warnings": [],
+      "source": "sample_dataset",
+      "notes": "Rich loamy soil sample"
+    },
+    {
+      "id": "IRIS-SAMPLE-036",
+      "timestamp": "2026-11-20T08:49:43.507321",
+      "sepal_length": 7.6,
+      "sepal_width": 3.0,
+      "petal_length": 6.6,
+      "petal_width": 2.1,
+      "predicted_species": "virginica",
+      "confidence": 0.9811,
+      "probabilities": {
+        "setosa": 0.0,
+        "versicolor": 0.0189,
+        "virginica": 0.9811
+      },
+      "warnings": [],
+      "source": "sample_dataset",
+      "notes": "Boundary: High sepal and petal lengths"
+    },
+    {
+      "id": "IRIS-SAMPLE-037",
+      "timestamp": "2026-11-20T16:49:43.507321",
+      "sepal_length": 4.9,
+      "sepal_width": 2.5,
+      "petal_length": 4.5,
+      "petal_width": 1.7,
+      "predicted_species": "versicolor",
+      "confidence": 0.5741,
+      "probabilities": {
+        "setosa": 0.0198,
+        "versicolor": 0.5741,
+        "virginica": 0.4061
+      },
+      "warnings": [
+        "Low Confidence Flag: Model certainty is 57.4% (below 65% threshold). Specimen lies near classification decision boundary."
+      ],
+      "source": "sample_dataset",
+      "notes": "Boundary: Unusually compact virginica"
+    },
+    {
+      "id": "IRIS-SAMPLE-038",
+      "timestamp": "2026-11-21T00:49:43.507321",
+      "sepal_length": 7.3,
+      "sepal_width": 2.9,
+      "petal_length": 6.3,
+      "petal_width": 1.8,
+      "predicted_species": "virginica",
+      "confidence": 0.9119,
+      "probabilities": {
+        "setosa": 0.0,
+        "versicolor": 0.0881,
+        "virginica": 0.9119
+      },
+      "warnings": [],
+      "source": "sample_dataset",
+      "notes": "Coastal plain giant bloom"
+    },
+    {
+      "id": "IRIS-SAMPLE-039",
+      "timestamp": "2026-11-21T08:49:43.507321",
+      "sepal_length": 6.7,
+      "sepal_width": 2.5,
+      "petal_length": 5.8,
+      "petal_width": 1.8,
+      "predicted_species": "virginica",
+      "confidence": 0.8547,
+      "probabilities": {
+        "setosa": 0.0001,
+        "versicolor": 0.1453,
+        "virginica": 0.8547
+      },
+      "warnings": [],
+      "source": "sample_dataset",
+      "notes": "Boundary: Low sepal width for virginica"
+    },
+    {
+      "id": "IRIS-SAMPLE-040",
+      "timestamp": "2026-11-21T16:49:43.507321",
+      "sepal_length": 7.2,
+      "sepal_width": 3.6,
+      "petal_length": 6.1,
+      "petal_width": 2.5,
+      "predicted_species": "virginica",
+      "confidence": 0.9922,
+      "probabilities": {
+        "setosa": 0.0,
+        "versicolor": 0.0078,
+        "virginica": 0.9922
+      },
+      "warnings": [],
+      "source": "sample_dataset",
+      "notes": "Vigorous specimen in full bloom"
+    },
+    {
+      "id": "IRIS-SAMPLE-041",
+      "timestamp": "2026-11-22T00:49:43.507321",
+      "sepal_length": 6.5,
+      "sepal_width": 3.2,
+      "petal_length": 5.1,
+      "petal_width": 2.0,
+      "predicted_species": "virginica",
+      "confidence": 0.8293,
+      "probabilities": {
+        "setosa": 0.0021,
+        "versicolor": 0.1686,
+        "virginica": 0.8293
+      },
+      "warnings": [],
+      "source": "sample_dataset",
+      "notes": "Late autumn survivor"
+    },
+    {
+      "id": "IRIS-SAMPLE-042",
+      "timestamp": "2026-11-22T08:49:43.507321",
+      "sepal_length": 6.4,
+      "sepal_width": 2.7,
+      "petal_length": 5.3,
+      "petal_width": 1.9,
+      "predicted_species": "virginica",
+      "confidence": 0.8199,
+      "probabilities": {
+        "setosa": 0.0004,
+        "versicolor": 0.1797,
+        "virginica": 0.8199
+      },
+      "warnings": [],
+      "source": "sample_dataset",
+      "notes": "Pond margin specimen"
+    },
+    {
+      "id": "IRIS-SAMPLE-043",
+      "timestamp": "2026-11-22T16:49:43.507321",
+      "sepal_length": 6.8,
+      "sepal_width": 3.0,
+      "petal_length": 5.5,
+      "petal_width": 2.1,
+      "predicted_species": "virginica",
+      "confidence": 0.9279,
+      "probabilities": {
+        "setosa": 0.0002,
+        "versicolor": 0.072,
+        "virginica": 0.9279
+      },
+      "warnings": [],
+      "source": "sample_dataset",
+      "notes": "Nature reserve collection"
+    },
+    {
+      "id": "IRIS-SAMPLE-044",
+      "timestamp": "2026-11-23T00:49:43.507321",
+      "sepal_length": 7.7,
+      "sepal_width": 3.8,
+      "petal_length": 6.7,
+      "petal_width": 2.2,
+      "predicted_species": "virginica",
+      "confidence": 0.9869,
+      "probabilities": {
+        "setosa": 0.0,
+        "versicolor": 0.0131,
+        "virginica": 0.9869
+      },
+      "warnings": [],
+      "source": "sample_dataset",
+      "notes": "Boundary: Near maximum standard dimensions"
+    },
+    {
+      "id": "IRIS-SAMPLE-045",
+      "timestamp": "2026-11-23T08:49:43.507321",
+      "sepal_length": 6.0,
+      "sepal_width": 3.0,
+      "petal_length": 4.8,
+      "petal_width": 1.8,
+      "predicted_species": "virginica",
+      "confidence": 0.5946,
+      "probabilities": {
+        "setosa": 0.009,
+        "versicolor": 0.3964,
+        "virginica": 0.5946
+      },
+      "warnings": [
+        "Low Confidence Flag: Model certainty is 59.5% (below 65% threshold). Specimen lies near classification decision boundary."
+      ],
+      "source": "sample_dataset",
+      "notes": "Edge: Ambiguous boundary between versicolor and virginica"
+    }
+  ]
+}

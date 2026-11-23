@@ -1,0 +1,279 @@
+================================================================================
+                   IRIS CLASSIFIER - AUDIT & ACTIVITY LOG
+                Export Generated: 2026-11-23 17:31:50
+                Total Transaction Entries: 45
+================================================================================
+
+ENTRY #001 | ID: IRIS-SAMPLE-001 | Timestamp: 2026-11-08T16:49:43.507321
+  Inputs: Sepal = 5.1 x 3.5 cm | Petal = 1.4 x 0.2 cm
+  Outcome: Predicted SETOSA (Confidence: 98.11%) [Source: sample_dataset]
+  Class Probabilities: [setosa: 98.1%, versicolor: 1.9%, virginica: 0.0%]
+  Notes: Standard specimen from Fisher study
+--------------------------------------------------------------------------------
+ENTRY #002 | ID: IRIS-SAMPLE-002 | Timestamp: 2026-11-09T00:49:43.507321
+  Inputs: Sepal = 4.9 x 3.0 cm | Petal = 1.4 x 0.2 cm
+  Outcome: Predicted SETOSA (Confidence: 91.74%) [Source: sample_dataset]
+  Class Probabilities: [setosa: 91.7%, versicolor: 8.3%, virginica: 0.0%]
+  Notes: Typical small blossom
+--------------------------------------------------------------------------------
+ENTRY #003 | ID: IRIS-SAMPLE-003 | Timestamp: 2026-11-09T08:49:43.507321
+  Inputs: Sepal = 4.7 x 3.2 cm | Petal = 1.3 x 0.2 cm
+  Outcome: Predicted SETOSA (Confidence: 97.37%) [Source: sample_dataset]
+  Class Probabilities: [setosa: 97.4%, versicolor: 2.6%, virginica: 0.0%]
+  Notes: Compact petal geometry
+--------------------------------------------------------------------------------
+ENTRY #004 | ID: IRIS-SAMPLE-004 | Timestamp: 2026-11-09T16:49:43.507321
+  Inputs: Sepal = 4.6 x 3.1 cm | Petal = 1.5 x 0.2 cm
+  Outcome: Predicted SETOSA (Confidence: 96.29%) [Source: sample_dataset]
+  Class Probabilities: [setosa: 96.3%, versicolor: 3.7%, virginica: 0.0%]
+  Notes: Early spring collection
+--------------------------------------------------------------------------------
+ENTRY #005 | ID: IRIS-SAMPLE-005 | Timestamp: 2026-11-10T00:49:43.507321
+  Inputs: Sepal = 5.0 x 3.6 cm | Petal = 1.4 x 0.2 cm
+  Outcome: Predicted SETOSA (Confidence: 98.92%) [Source: sample_dataset]
+  Class Probabilities: [setosa: 98.9%, versicolor: 1.1%, virginica: 0.0%]
+  Notes: Healthy garden observation
+--------------------------------------------------------------------------------
+ENTRY #006 | ID: IRIS-SAMPLE-006 | Timestamp: 2026-11-10T08:49:43.507321
+  Inputs: Sepal = 5.4 x 3.9 cm | Petal = 1.7 x 0.4 cm
+  Outcome: Predicted SETOSA (Confidence: 98.9%) [Source: sample_dataset]
+  Class Probabilities: [setosa: 98.9%, versicolor: 1.1%, virginica: 0.0%]
+  Notes: Robust flower, broad sepals
+--------------------------------------------------------------------------------
+ENTRY #007 | ID: IRIS-SAMPLE-007 | Timestamp: 2026-11-10T16:49:43.507321
+  Inputs: Sepal = 4.6 x 3.4 cm | Petal = 1.4 x 0.3 cm
+  Outcome: Predicted SETOSA (Confidence: 98.76%) [Source: sample_dataset]
+  Class Probabilities: [setosa: 98.8%, versicolor: 1.2%, virginica: 0.0%]
+  Notes: Alpine meadow sample
+--------------------------------------------------------------------------------
+ENTRY #008 | ID: IRIS-SAMPLE-008 | Timestamp: 2026-11-11T00:49:43.507321
+  Inputs: Sepal = 5.0 x 3.4 cm | Petal = 1.5 x 0.2 cm
+  Outcome: Predicted SETOSA (Confidence: 97.53%) [Source: sample_dataset]
+  Class Probabilities: [setosa: 97.5%, versicolor: 2.5%, virginica: 0.0%]
+  Notes: Greenhouse cultivated
+--------------------------------------------------------------------------------
+ENTRY #009 | ID: IRIS-SAMPLE-009 | Timestamp: 2026-11-11T08:49:43.507321
+  Inputs: Sepal = 4.4 x 2.9 cm | Petal = 1.4 x 0.2 cm
+  Outcome: Predicted SETOSA (Confidence: 94.96%) [Source: sample_dataset]
+  Class Probabilities: [setosa: 95.0%, versicolor: 5.0%, virginica: 0.0%]
+  Notes: Boundary: Lower bound sepal length
+--------------------------------------------------------------------------------
+ENTRY #010 | ID: IRIS-SAMPLE-010 | Timestamp: 2026-11-11T16:49:43.507321
+  Inputs: Sepal = 4.9 x 3.1 cm | Petal = 1.5 x 0.1 cm
+  Outcome: Predicted SETOSA (Confidence: 94.33%) [Source: sample_dataset]
+  Class Probabilities: [setosa: 94.3%, versicolor: 5.7%, virginica: 0.0%]
+  Notes: Boundary: Extreme lower petal width
+--------------------------------------------------------------------------------
+ENTRY #011 | ID: IRIS-SAMPLE-011 | Timestamp: 2026-11-12T00:49:43.507321
+  Inputs: Sepal = 5.4 x 3.7 cm | Petal = 1.5 x 0.2 cm
+  Outcome: Predicted SETOSA (Confidence: 98.35%) [Source: sample_dataset]
+  Class Probabilities: [setosa: 98.4%, versicolor: 1.7%, virginica: 0.0%]
+  Notes: Woodland clearing specimen
+--------------------------------------------------------------------------------
+ENTRY #012 | ID: IRIS-SAMPLE-012 | Timestamp: 2026-11-12T08:49:43.507321
+  Inputs: Sepal = 4.8 x 3.4 cm | Petal = 1.6 x 0.2 cm
+  Outcome: Predicted SETOSA (Confidence: 98.13%) [Source: sample_dataset]
+  Class Probabilities: [setosa: 98.1%, versicolor: 1.9%, virginica: 0.0%]
+  Notes: Moist soil substrate
+--------------------------------------------------------------------------------
+ENTRY #013 | ID: IRIS-SAMPLE-013 | Timestamp: 2026-11-12T16:49:43.507321
+  Inputs: Sepal = 4.8 x 3.0 cm | Petal = 1.4 x 0.1 cm
+  Outcome: Predicted SETOSA (Confidence: 93.64%) [Source: sample_dataset]
+  Class Probabilities: [setosa: 93.6%, versicolor: 6.4%, virginica: 0.0%]
+  Notes: Shaded forest floor
+--------------------------------------------------------------------------------
+ENTRY #014 | ID: IRIS-SAMPLE-014 | Timestamp: 2026-11-13T00:49:43.507321
+  Inputs: Sepal = 5.7 x 4.4 cm | Petal = 1.5 x 0.4 cm
+  Outcome: Predicted SETOSA (Confidence: 99.76%) [Source: sample_dataset]
+  Class Probabilities: [setosa: 99.8%, versicolor: 0.2%, virginica: 0.0%]
+  Notes: Boundary: Upper sepal width outlier
+--------------------------------------------------------------------------------
+ENTRY #015 | ID: IRIS-SAMPLE-015 | Timestamp: 2026-11-13T08:49:43.507321
+  Inputs: Sepal = 5.2 x 4.1 cm | Petal = 1.5 x 0.1 cm
+  Outcome: Predicted SETOSA (Confidence: 99.77%) [Source: sample_dataset]
+  Class Probabilities: [setosa: 99.8%, versicolor: 0.2%, virginica: 0.0%]
+  Notes: Edge: High sepal width to length ratio
+--------------------------------------------------------------------------------
+ENTRY #016 | ID: IRIS-SAMPLE-016 | Timestamp: 2026-11-13T16:49:43.507321
+  Inputs: Sepal = 7.0 x 3.2 cm | Petal = 4.7 x 1.4 cm
+  Outcome: Predicted VERSICOLOR (Confidence: 78.62%) [Source: sample_dataset]
+  Class Probabilities: [setosa: 1.0%, versicolor: 78.6%, virginica: 20.4%]
+  Notes: Typical robust versicolor
+--------------------------------------------------------------------------------
+ENTRY #017 | ID: IRIS-SAMPLE-017 | Timestamp: 2026-11-14T00:49:43.507321
+  Inputs: Sepal = 6.4 x 3.2 cm | Petal = 4.5 x 1.5 cm
+  Outcome: Predicted VERSICOLOR (Confidence: 74.89%) [Source: sample_dataset]
+  Class Probabilities: [setosa: 3.0%, versicolor: 74.9%, virginica: 22.1%]
+  Notes: Standard riverbank variety
+--------------------------------------------------------------------------------
+ENTRY #018 | ID: IRIS-SAMPLE-018 | Timestamp: 2026-11-14T08:49:43.507321
+  Inputs: Sepal = 6.9 x 3.1 cm | Petal = 4.9 x 1.5 cm
+  Outcome: Predicted VERSICOLOR (Confidence: 65.97%) [Source: sample_dataset]
+  Class Probabilities: [setosa: 0.5%, versicolor: 66.0%, virginica: 33.5%]
+  Notes: Tall stem specimen
+--------------------------------------------------------------------------------
+ENTRY #019 | ID: IRIS-SAMPLE-019 | Timestamp: 2026-11-14T16:49:43.507321
+  Inputs: Sepal = 5.5 x 2.3 cm | Petal = 4.0 x 1.3 cm
+  Outcome: Predicted VERSICOLOR (Confidence: 91.63%) [Source: sample_dataset]
+  Class Probabilities: [setosa: 1.1%, versicolor: 91.6%, virginica: 7.3%]
+  Notes: Boundary: Low sepal width
+--------------------------------------------------------------------------------
+ENTRY #020 | ID: IRIS-SAMPLE-020 | Timestamp: 2026-11-15T00:49:43.507321
+  Inputs: Sepal = 6.5 x 2.8 cm | Petal = 4.6 x 1.5 cm
+  Outcome: Predicted VERSICOLOR (Confidence: 72.89%) [Source: sample_dataset]
+  Class Probabilities: [setosa: 0.5%, versicolor: 72.9%, virginica: 26.6%]
+  Notes: Meadow marsh sample
+--------------------------------------------------------------------------------
+ENTRY #021 | ID: IRIS-SAMPLE-021 | Timestamp: 2026-11-15T08:49:43.507321
+  Inputs: Sepal = 5.7 x 2.8 cm | Petal = 4.5 x 1.3 cm
+  Outcome: Predicted VERSICOLOR (Confidence: 85.4%) [Source: sample_dataset]
+  Class Probabilities: [setosa: 3.2%, versicolor: 85.4%, virginica: 11.4%]
+  Notes: Suburban wetland park
+--------------------------------------------------------------------------------
+ENTRY #022 | ID: IRIS-SAMPLE-022 | Timestamp: 2026-11-15T16:49:43.507321 [WARNINGS: 1]
+  Inputs: Sepal = 6.3 x 3.3 cm | Petal = 4.7 x 1.6 cm
+  Outcome: Predicted VERSICOLOR (Confidence: 62.14%) [Source: sample_dataset]
+  Class Probabilities: [setosa: 3.4%, versicolor: 62.1%, virginica: 34.5%]
+  ! FLAG: Low Confidence Flag: Model certainty is 62.1% (below 65% threshold). Specimen lies near classification decision boundary.
+  Notes: Healthy adult bloom
+--------------------------------------------------------------------------------
+ENTRY #023 | ID: IRIS-SAMPLE-023 | Timestamp: 2026-11-16T00:49:43.507321
+  Inputs: Sepal = 4.9 x 2.4 cm | Petal = 3.3 x 1.0 cm
+  Outcome: Predicted VERSICOLOR (Confidence: 88.67%) [Source: sample_dataset]
+  Class Probabilities: [setosa: 10.5%, versicolor: 88.7%, virginica: 0.8%]
+  Notes: Boundary: Dwarf versicolor specimen
+--------------------------------------------------------------------------------
+ENTRY #024 | ID: IRIS-SAMPLE-024 | Timestamp: 2026-11-16T08:49:43.507321
+  Inputs: Sepal = 6.6 x 2.9 cm | Petal = 4.6 x 1.3 cm
+  Outcome: Predicted VERSICOLOR (Confidence: 85.7%) [Source: sample_dataset]
+  Class Probabilities: [setosa: 0.9%, versicolor: 85.7%, virginica: 13.5%]
+  Notes: Late summer field record
+--------------------------------------------------------------------------------
+ENTRY #025 | ID: IRIS-SAMPLE-025 | Timestamp: 2026-11-16T16:49:43.507321
+  Inputs: Sepal = 5.2 x 2.7 cm | Petal = 3.9 x 1.4 cm
+  Outcome: Predicted VERSICOLOR (Confidence: 84.2%) [Source: sample_dataset]
+  Class Probabilities: [setosa: 7.7%, versicolor: 84.2%, virginica: 8.1%]
+  Notes: Boundary: Near setosa-versicolor transition
+--------------------------------------------------------------------------------
+ENTRY #026 | ID: IRIS-SAMPLE-026 | Timestamp: 2026-11-17T00:49:43.507321
+  Inputs: Sepal = 5.0 x 2.0 cm | Petal = 3.5 x 1.0 cm
+  Outcome: Predicted VERSICOLOR (Confidence: 96.97%) [Source: sample_dataset]
+  Class Probabilities: [setosa: 1.8%, versicolor: 97.0%, virginica: 1.2%]
+  Notes: Boundary: Hard minimum sepal width
+--------------------------------------------------------------------------------
+ENTRY #027 | ID: IRIS-SAMPLE-027 | Timestamp: 2026-11-17T08:49:43.507321
+  Inputs: Sepal = 5.9 x 3.0 cm | Petal = 4.2 x 1.5 cm
+  Outcome: Predicted VERSICOLOR (Confidence: 79.07%) [Source: sample_dataset]
+  Class Probabilities: [setosa: 4.6%, versicolor: 79.1%, virginica: 16.4%]
+  Notes: Botanical conservatory sample
+--------------------------------------------------------------------------------
+ENTRY #028 | ID: IRIS-SAMPLE-028 | Timestamp: 2026-11-17T16:49:43.507321
+  Inputs: Sepal = 6.0 x 2.2 cm | Petal = 4.0 x 1.0 cm
+  Outcome: Predicted VERSICOLOR (Confidence: 97.22%) [Source: sample_dataset]
+  Class Probabilities: [setosa: 0.4%, versicolor: 97.2%, virginica: 2.4%]
+  Notes: Dry meadow boundary specimen
+--------------------------------------------------------------------------------
+ENTRY #029 | ID: IRIS-SAMPLE-029 | Timestamp: 2026-11-18T00:49:43.507321
+  Inputs: Sepal = 6.1 x 2.9 cm | Petal = 4.7 x 1.4 cm
+  Outcome: Predicted VERSICOLOR (Confidence: 78.12%) [Source: sample_dataset]
+  Class Probabilities: [setosa: 1.6%, versicolor: 78.1%, virginica: 20.3%]
+  Notes: Lakeshore collection
+--------------------------------------------------------------------------------
+ENTRY #030 | ID: IRIS-SAMPLE-030 | Timestamp: 2026-11-18T08:49:43.507321
+  Inputs: Sepal = 5.6 x 2.9 cm | Petal = 3.6 x 1.3 cm
+  Outcome: Predicted VERSICOLOR (Confidence: 85.09%) [Source: sample_dataset]
+  Class Probabilities: [setosa: 11.2%, versicolor: 85.1%, virginica: 3.7%]
+  Notes: Borderline confidence test case
+--------------------------------------------------------------------------------
+ENTRY #031 | ID: IRIS-SAMPLE-031 | Timestamp: 2026-11-18T16:49:43.507321
+  Inputs: Sepal = 6.3 x 3.3 cm | Petal = 6.0 x 2.5 cm
+  Outcome: Predicted VIRGINICA (Confidence: 99.12%) [Source: sample_dataset]
+  Class Probabilities: [setosa: 0.0%, versicolor: 0.9%, virginica: 99.1%]
+  Notes: Standard mature virginica
+--------------------------------------------------------------------------------
+ENTRY #032 | ID: IRIS-SAMPLE-032 | Timestamp: 2026-11-19T00:49:43.507321
+  Inputs: Sepal = 5.8 x 2.7 cm | Petal = 5.1 x 1.9 cm
+  Outcome: Predicted VIRGINICA (Confidence: 77.31%) [Source: sample_dataset]
+  Class Probabilities: [setosa: 0.2%, versicolor: 22.5%, virginica: 77.3%]
+  Notes: Borderline versicolor/virginica transition
+--------------------------------------------------------------------------------
+ENTRY #033 | ID: IRIS-SAMPLE-033 | Timestamp: 2026-11-19T08:49:43.507321
+  Inputs: Sepal = 7.1 x 3.0 cm | Petal = 5.9 x 2.1 cm
+  Outcome: Predicted VIRGINICA (Confidence: 95.53%) [Source: sample_dataset]
+  Class Probabilities: [setosa: 0.0%, versicolor: 4.5%, virginica: 95.5%]
+  Notes: Large wetland wild bloom
+--------------------------------------------------------------------------------
+ENTRY #034 | ID: IRIS-SAMPLE-034 | Timestamp: 2026-11-19T16:49:43.507321
+  Inputs: Sepal = 6.3 x 2.9 cm | Petal = 5.6 x 1.8 cm
+  Outcome: Predicted VIRGINICA (Confidence: 80.43%) [Source: sample_dataset]
+  Class Probabilities: [setosa: 0.1%, versicolor: 19.5%, virginica: 80.4%]
+  Notes: Forest trail border
+--------------------------------------------------------------------------------
+ENTRY #035 | ID: IRIS-SAMPLE-035 | Timestamp: 2026-11-20T00:49:43.507321
+  Inputs: Sepal = 6.5 x 3.0 cm | Petal = 5.8 x 2.2 cm
+  Outcome: Predicted VIRGINICA (Confidence: 96.49%) [Source: sample_dataset]
+  Class Probabilities: [setosa: 0.0%, versicolor: 3.5%, virginica: 96.5%]
+  Notes: Rich loamy soil sample
+--------------------------------------------------------------------------------
+ENTRY #036 | ID: IRIS-SAMPLE-036 | Timestamp: 2026-11-20T08:49:43.507321
+  Inputs: Sepal = 7.6 x 3.0 cm | Petal = 6.6 x 2.1 cm
+  Outcome: Predicted VIRGINICA (Confidence: 98.11%) [Source: sample_dataset]
+  Class Probabilities: [setosa: 0.0%, versicolor: 1.9%, virginica: 98.1%]
+  Notes: Boundary: High sepal and petal lengths
+--------------------------------------------------------------------------------
+ENTRY #037 | ID: IRIS-SAMPLE-037 | Timestamp: 2026-11-20T16:49:43.507321 [WARNINGS: 1]
+  Inputs: Sepal = 4.9 x 2.5 cm | Petal = 4.5 x 1.7 cm
+  Outcome: Predicted VERSICOLOR (Confidence: 57.41%) [Source: sample_dataset]
+  Class Probabilities: [setosa: 2.0%, versicolor: 57.4%, virginica: 40.6%]
+  ! FLAG: Low Confidence Flag: Model certainty is 57.4% (below 65% threshold). Specimen lies near classification decision boundary.
+  Notes: Boundary: Unusually compact virginica
+--------------------------------------------------------------------------------
+ENTRY #038 | ID: IRIS-SAMPLE-038 | Timestamp: 2026-11-21T00:49:43.507321
+  Inputs: Sepal = 7.3 x 2.9 cm | Petal = 6.3 x 1.8 cm
+  Outcome: Predicted VIRGINICA (Confidence: 91.19%) [Source: sample_dataset]
+  Class Probabilities: [setosa: 0.0%, versicolor: 8.8%, virginica: 91.2%]
+  Notes: Coastal plain giant bloom
+--------------------------------------------------------------------------------
+ENTRY #039 | ID: IRIS-SAMPLE-039 | Timestamp: 2026-11-21T08:49:43.507321
+  Inputs: Sepal = 6.7 x 2.5 cm | Petal = 5.8 x 1.8 cm
+  Outcome: Predicted VIRGINICA (Confidence: 85.47%) [Source: sample_dataset]
+  Class Probabilities: [setosa: 0.0%, versicolor: 14.5%, virginica: 85.5%]
+  Notes: Boundary: Low sepal width for virginica
+--------------------------------------------------------------------------------
+ENTRY #040 | ID: IRIS-SAMPLE-040 | Timestamp: 2026-11-21T16:49:43.507321
+  Inputs: Sepal = 7.2 x 3.6 cm | Petal = 6.1 x 2.5 cm
+  Outcome: Predicted VIRGINICA (Confidence: 99.22%) [Source: sample_dataset]
+  Class Probabilities: [setosa: 0.0%, versicolor: 0.8%, virginica: 99.2%]
+  Notes: Vigorous specimen in full bloom
+--------------------------------------------------------------------------------
+ENTRY #041 | ID: IRIS-SAMPLE-041 | Timestamp: 2026-11-22T00:49:43.507321
+  Inputs: Sepal = 6.5 x 3.2 cm | Petal = 5.1 x 2.0 cm
+  Outcome: Predicted VIRGINICA (Confidence: 82.93%) [Source: sample_dataset]
+  Class Probabilities: [setosa: 0.2%, versicolor: 16.9%, virginica: 82.9%]
+  Notes: Late autumn survivor
+--------------------------------------------------------------------------------
+ENTRY #042 | ID: IRIS-SAMPLE-042 | Timestamp: 2026-11-22T08:49:43.507321
+  Inputs: Sepal = 6.4 x 2.7 cm | Petal = 5.3 x 1.9 cm
+  Outcome: Predicted VIRGINICA (Confidence: 81.99%) [Source: sample_dataset]
+  Class Probabilities: [setosa: 0.0%, versicolor: 18.0%, virginica: 82.0%]
+  Notes: Pond margin specimen
+--------------------------------------------------------------------------------
+ENTRY #043 | ID: IRIS-SAMPLE-043 | Timestamp: 2026-11-22T16:49:43.507321
+  Inputs: Sepal = 6.8 x 3.0 cm | Petal = 5.5 x 2.1 cm
+  Outcome: Predicted VIRGINICA (Confidence: 92.79%) [Source: sample_dataset]
+  Class Probabilities: [setosa: 0.0%, versicolor: 7.2%, virginica: 92.8%]
+  Notes: Nature reserve collection
+--------------------------------------------------------------------------------
+ENTRY #044 | ID: IRIS-SAMPLE-044 | Timestamp: 2026-11-23T00:49:43.507321
+  Inputs: Sepal = 7.7 x 3.8 cm | Petal = 6.7 x 2.2 cm
+  Outcome: Predicted VIRGINICA (Confidence: 98.69%) [Source: sample_dataset]
+  Class Probabilities: [setosa: 0.0%, versicolor: 1.3%, virginica: 98.7%]
+  Notes: Boundary: Near maximum standard dimensions
+--------------------------------------------------------------------------------
+ENTRY #045 | ID: IRIS-SAMPLE-045 | Timestamp: 2026-11-23T08:49:43.507321 [WARNINGS: 1]
+  Inputs: Sepal = 6.0 x 3.0 cm | Petal = 4.8 x 1.8 cm
+  Outcome: Predicted VIRGINICA (Confidence: 59.46%) [Source: sample_dataset]
+  Class Probabilities: [setosa: 0.9%, versicolor: 39.6%, virginica: 59.5%]
+  ! FLAG: Low Confidence Flag: Model certainty is 59.5% (below 65% threshold). Specimen lies near classification decision boundary.
+  Notes: Edge: Ambiguous boundary between versicolor and virginica
+--------------------------------------------------------------------------------
